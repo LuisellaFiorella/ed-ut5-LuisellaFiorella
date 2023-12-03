@@ -24,10 +24,12 @@ public class EjemploParaEDE {
 
             { System.out.println( "Solucion 1: " + solucion1);
                 System.out.println( "Solucion 2: " + solucion2 );
+                /*Hola francisco manuel box ha modificado este proyecto*/
 
             }
 
         }
+        System.out.println("Hola yo Francisco Box editó este proyecto");
     }
 }
 
